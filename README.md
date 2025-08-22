@@ -15,9 +15,11 @@ A simple Ping Pong (Pong) game built with Python and Pygame, featuring one playe
 
 ## ⚡ Installation
 ```bash
-git clone (https://github.com/Vedansh186/games2k22.git)
-cd PingPongAI
+git clone https://github.com/Vedansh186/PingPong.git
+cd PingPong
+cd PingPongGame
+cd PingPong
 pip install pygame
-python main.py
+python pingpong.py
 ```
 
